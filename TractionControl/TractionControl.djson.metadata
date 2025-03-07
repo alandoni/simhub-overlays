@@ -8,11 +8,13 @@
   "InGameScreensIndexs": [
     0
   ],
-  "IdleScreensIndexs": [],
+  "IdleScreensIndexs": [
+    0
+  ],
   "MainPreviewIndex": 0,
   "IsOverlay": true,
-  "Width": 320.0,
-  "Height": 60.0,
+  "Width": 120.0,
+  "Height": 120.0,
   "OverlaySizeWarning": false,
   "MetadataVersion": 2.0,
   "EnableOnDashboardMessaging": true,
