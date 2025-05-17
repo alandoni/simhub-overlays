@@ -1,0 +1,23 @@
+{
+  "ScreenCount": 1.0,
+  "InGameScreensIndexs": [
+    0
+  ],
+  "IdleScreensIndexs": [
+    0
+  ],
+  "MainPreviewIndex": 0,
+  "IsOverlay": true,
+  "OverlaySizeWarning": false,
+  "MetadataVersion": 2.0,
+  "EnableOnDashboardMessaging": true,
+  "PitScreensIndexs": [],
+  "SimHubVersion": "9.8.2",
+  "Category": null,
+  "Title": "Radar for iRacing - Left",
+  "Description": null,
+  "Author": null,
+  "Width": 200.0,
+  "Height": 400.0,
+  "DashboardVersion": ""
+}
